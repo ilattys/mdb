@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+//right align mdb nav
+.nav-item {
+  text-align: right;
+}
+
+//transparent
+//no extra css needed
+
+//change color on scroll
+//.navbar.scrolling-navbar.top-nav-collapse {
+//  background-color: red !important;
+//}
+
+//hide on scroll
+//.navbar.scrolling-navbar.top-nav-collapse {
+//  visibility: hidden;
+//}
+
+//full screen nav
+//@media (max-width: 990px) {
+//  .navbar-collapse {
+//    height: 100vh !important;
+//  }
+//}
